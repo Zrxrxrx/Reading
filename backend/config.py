@@ -1,0 +1,3 @@
+PORT = 5000
+DEBUG = True
+SQLALCHEMY_DATABASE_URI = './data.db'
